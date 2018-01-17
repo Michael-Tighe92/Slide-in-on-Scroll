@@ -1,2 +1,3 @@
 # Slide-in-on-Scroll
-Created using Slide in on Scroll (JavaScript30) 
+
+- A javascript project that slides in pictures when scrolling down the page.
